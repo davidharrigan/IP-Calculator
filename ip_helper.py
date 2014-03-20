@@ -1,9 +1,3 @@
-#
-# David Harrigan
-# 2/25/14
-# CS 725
-#
-
 import re
 
 def format_output(addr):
