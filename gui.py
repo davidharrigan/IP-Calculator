@@ -82,7 +82,7 @@ class GUI(QtGui.QWidget):
         self.setLayout(self.grid)
         self.resize(320,0)
         self.move(300,300)
-        self.setWindowTitle('CS725 HW1')
+        self.setWindowTitle('IP Calculator')
 
         self.show()
 
