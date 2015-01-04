@@ -1,4 +1,4 @@
-IP-Caluclater
+IP-Calculater
 =============
 
 To run the command line version:
